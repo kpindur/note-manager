@@ -1,7 +1,8 @@
 # Note Manager
 
 Simple note taking/management system
-```
+
+```mermaid
 graph TD
     A[Read/Think] --> B[Create Note]
     B --> C[Assign Unique ID]
